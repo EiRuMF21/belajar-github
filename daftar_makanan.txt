@@ -1,0 +1,6 @@
+Daftar makanan favorit
+  Nasi Goreng
+  Mie Kuah
+  Steak
+  Sphagetti
+  Baso
